@@ -1,0 +1,6 @@
+.navbar .navbar-nav {
+    display: flex;
+    align-items: center; /* Centra verticalmente */
+    justify-content: center; /* Opcional: centra horizontalmente */
+    height: 100%; /* Asegura que use toda la altura disponible */
+}
